@@ -1,3 +1,11 @@
+---
+name: Idea for a hackathon project
+about: This describes a possible project for hackathoin participants
+title: "[Idea] ...."
+labels: idea
+assignees: ''
+---
+
 ## Story
 - Describe the benefits of this change, ideally in the following format:
 *As a < type of user >, I want < some goal > so that < some reason >*
