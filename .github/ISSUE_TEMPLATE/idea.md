@@ -1,6 +1,6 @@
 ---
-name: Idea for a hackathon project
-about: This describes a possible project for hackathoin participants
+name: Idea
+about: This describes a possible project for hackathon participants
 title: "[Idea] ...."
 labels: idea
 assignees: ''
