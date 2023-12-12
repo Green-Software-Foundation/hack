@@ -1,4 +1,4 @@
-Join the Green Software Foundation's Carbon Hack 2024!
+# Join the Green Software Foundation's Carbon Hack 2024!
 
 🌍 **Beyond Carbon, Beyond Limits**
 
