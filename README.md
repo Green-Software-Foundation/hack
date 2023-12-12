@@ -40,7 +40,7 @@ Register now  | Learn More About Our Award Categories
 ❓ **Got Questions? We've got answers!**
 
 Please consult our [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/blob/main/FAQ.md).
-For any questions not answered here, reach out to [carbonhack@greensoftware.foundation](carbonhack@greensoftware.foundation).
+For any questions not answered here, reach out to carbonhack@greensoftware.foundation.
 
 
 🤝 **Sponsor Carbon Hack: Accelerate innovation and sustainability**
