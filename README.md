@@ -6,7 +6,7 @@
 
 ----------------------------
 
-**Welcome to CarbonHack 24 from the GSF.**
+**Welcome to [CarbonHack 24](https://grnsft.org/hack/github) from the Green Software Foundation.**
 
 > From Monday, February 26 - Friday, March 15, 2024, participants will compete to showcase their best application of IF in measuring the environmental impacts of software. 
 > 
@@ -14,7 +14,7 @@
 > 
 > CarbonHack is open to all, including software practitioners and those with a passion for Green Software.
 >
-> Find out more about CarbonHack 2024 on the [CarbonHack website]()
+> Find out more about CarbonHack 2024 on the [CarbonHack website](https://grnsft.org/hack/github)
 > 
 > Registration opens 15th January!
 
