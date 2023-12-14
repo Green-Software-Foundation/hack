@@ -4,6 +4,7 @@ about: This describes a possible project for hackathon participants
 title: "[Idea] ...."
 labels: idea
 assignees: ''
+
 ---
 
 ## Story
@@ -32,5 +33,3 @@ assignees: ''
 
 ## Examples and resources
 - Provide any links to prior discussions, similar code, examples, pseudocode, diagrams or anything else than can help the hacker understand the task
-
-
