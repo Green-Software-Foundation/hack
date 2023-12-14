@@ -7,6 +7,13 @@ assignees: ''
 
 ---
 
+## Prize category
+
+- [ ] Best Model
+- [ ] Best Content
+- [ ] Beyond Carbon
+- [ ] Best contribution to the framework
+
 ## Story
 - Describe the benefits of this change, ideally in the following format:
 *As a < type of user >, I want < some goal > so that < some reason >*
