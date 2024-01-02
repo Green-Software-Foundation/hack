@@ -1,15 +1,15 @@
-title: "[General] "
-labels: ["General Introduction"]
+title: "[Project Idea] "
+labels: ["Idea"]
 body:
   - type: markdown
     attributes:
       value: |
-        This is text that will show up in the template!
+        Submit your project idea below!
   - type: textarea
     id: improvements
     attributes:
-      label: Top 3 improvements
-      description: "What are the top 3 improvements we could make to this project?"
+      label: Project Idea
+      description: "Put your project idea below"
       value: |
         1.
         2.
@@ -21,7 +21,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Markdown header
+        ## About your team
         And some more markdown
   - type: input
     id: has-id
