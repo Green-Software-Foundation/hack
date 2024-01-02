@@ -22,7 +22,7 @@ body:
     attributes:
       value: |
         ## About your team
-        And some more markdown
+        Tell us more about you
   - type: input
     id: has-id
     attributes:
@@ -33,12 +33,12 @@ body:
   - type: dropdown
     id: download
     attributes:
-      label: Which area of this project could be most improved?
+      label: Which prize category does this project align to?
       options:
-        - Documentation
-        - Pull request review time
-        - Bug fix time
-        - Release cadence
+        - Beyond Carbon
+        - Best Model
+        - Best Content
+        - Best Contribution to the Framework
     validations:
       required: true
   - type: checkboxes
@@ -47,7 +47,7 @@ body:
       options:
         - label: This one!
           required: true
-        - label: I won't stop you if you check this one, too
+        - label: Is this an Undergraduate project?
   - type: markdown
     attributes:
       value: |
