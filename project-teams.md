@@ -2,4 +2,4 @@
 ## Participating Teams
 
 
-### _This page will be updated once teams are able to submit their projects. 
+_This page will be updated once teams are able to submit their projects._
