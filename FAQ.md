@@ -1,3 +1,8 @@
+# Carbon Hack 2024
+## Frequently asked questions
+
+#### ❓ _Do you have a question that isn't covered here? Ask it in [**Carbon Hack Discussions**](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)._
+
 ### Q: What is CarbonHack? 
 A: CarbonHack is a global contest for developers who want to make a difference in the fight against climate change. It challenges participants to use the Impact Framework, a tool that allows measuring and calculating the environmental impact of software.
 
