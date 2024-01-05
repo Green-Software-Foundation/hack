@@ -1,7 +1,7 @@
 name: Project Idea
 description: Submit your project idea
 title: "[Project Idea]: "
-labels: ["project-idea", "draft"]
+labels: ["project-idea", "draft project"]
 projects: ["Green-Software-Foundation/projects/47"]
 assignees:
   - adamj89
