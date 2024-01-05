@@ -1,7 +1,7 @@
 name: Project Idea
 description: Submit your project idea
 title: "[Project Idea]: "
-labels: ["project-idea"]
+labels: ["project-idea", "draft"]
 projects: ["Green-Software-Foundation/projects/47"]
 assignees:
   - adamj89
@@ -46,6 +46,26 @@ body:
       options:
         - label: All team members are students
           required: false
+  - type: textarea
+    id: questions
+    attributes:
+      label: Questions to be answered
+      description: Do you have any questions that you'd like us to clarify before you build your soltuion?
+      placeholder: Your questions here
+    validations:
+      required: false
+  - type: dropdown
+    id: team
+    attributes:
+      label: Have you built a project team yet?
+      description: Please answer so we know if you need help
+      options:
+        - Yes but we are still open to extras
+        - No, but we will find people ourself
+        - No, we would like your help to find team-mates
+        - I am working on this project alone
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
