@@ -2,7 +2,7 @@ name: Project Idea
 description: Submit your project idea
 title: "[Bug]: "
 labels: ["project-idea"]
-projects: ["Green-Software-Foundation/47"]
+projects: ["Green-Software-Foundation/projects/47"]
 assignees:
   - adamj89
 body:
