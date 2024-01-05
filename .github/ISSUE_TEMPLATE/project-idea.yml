@@ -21,7 +21,7 @@ body:
   - type: textarea
     id: project-description
     attributes:
-      label: Project overview:
+      label: Project overview
       description: Please give us an overview of your project
       placeholder: Tell us what you want to build!
     validations:
