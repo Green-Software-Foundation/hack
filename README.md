@@ -7,6 +7,8 @@ If you already know why you're here, read the following guides for information:
 - ### [Carbon Hack Prize Categories](https://github.com/Green-Software-Foundation/hack/blob/main/prizes.md)
 - ### [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/blob/main/FAQ.md)
 
+![image](https://github.com/Green-Software-Foundation/hack/assets/20337337/f7a0f478-e5ad-4d5c-bb5d-395426e2a42a)
+
 ---- 
 
 If you're looking to understand the basics of Carbon Hack, read below!
