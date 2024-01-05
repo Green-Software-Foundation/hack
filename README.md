@@ -1,5 +1,14 @@
 # Join the Green Software Foundation's Carbon Hack 2024!
 
+Read the following guides for information:
+- ### [Participating in Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/participating.md)
+- ### [Sponsoring Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/sponsoring.md)
+- ### [Supporting Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/supporting.md)
+- ### [Carbon Hack Prize Categories](https://github.com/Green-Software-Foundation/hack/blob/main/prizes.md)
+- ### [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/blob/main/FAQ.md)
+
+---- 
+
 🌍 **Beyond Carbon, Beyond Limits**
 
 In Spring 2024, developers, engineers, and non-technical practitioners are invited to revolutionize the way we measure software to reduce its environmental impact! 
