@@ -1,55 +1,64 @@
-title: "[Project Idea] "
-labels: ["idea"]
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - octocat
 body:
   - type: markdown
     attributes:
       value: |
-        Submit your project idea below!
-  - type: textarea
-    id: improvements
-    attributes:
-      label: Project Idea
-      description: "Put your project idea below"
-      value: |
-        1.
-        2.
-        3.
-        ...
-      render: bash
-    validations:
-      required: true
-  - type: markdown
-    attributes:
-      value: |
-        ## About your team
-        Tell us more about you
+        Thanks for taking the time to fill out this bug report!
   - type: input
-    id: has-id
+    id: contact
     attributes:
-      label: Suggestions
-      description: A description about suggestions to help you
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
     validations:
       required: true
   - type: dropdown
-    id: download
+    id: version
     attributes:
-      label: Which prize category does this project align to?
+      label: Version
+      description: What version of our software are you running?
       options:
-        - Beyond Carbon
-        - Best Model
-        - Best Content
-        - Best Contribution to the Framework
+        - 1.0.2 (Default)
+        - 1.0.3 (Edge)
+      default: 0
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
+    id: browsers
     attributes:
-      label: Check that box!
+      label: What browsers are you seeing the problem on?
+      multiple: true
       options:
-        - label: This one!
-          required: true
-        - label: Is this an Undergraduate project?
-  - type: markdown
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+  - type: textarea
+    id: logs
     attributes:
-      value: |
-        ### The thrilling conclusion
-        _to our template_
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
