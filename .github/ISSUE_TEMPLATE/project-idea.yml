@@ -1,6 +1,6 @@
 name: Project Idea
 description: Submit your project idea
-title: "[Bug]: "
+title: "[Project Idea]: "
 labels: ["project-idea"]
 projects: ["Green-Software-Foundation/projects/47"]
 assignees:
@@ -37,6 +37,14 @@ body:
       default: 0
     validations:
       required: true
+  - type: checkboxes
+    id: student
+    attributes:
+      label: Undergraduate Student Prize
+      description: All members of my team are undergraduate students and I want to be entered into this prize category in addition to the chosen prize category above.
+      options:
+        - label: All team members are students
+          required: false
   - type: dropdown
     id: browsers
     attributes:
