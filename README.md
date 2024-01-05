@@ -2,7 +2,7 @@
 
 🌍 **Beyond Carbon, Beyond Limits**
 
-From 26th February to 15th March 2024, developers, engineers, and non-technical practitioners are invited to revolutionize the way we measure software to reduce its environmental impact! 
+In Spring 2024, developers, engineers, and non-technical practitioners are invited to revolutionize the way we measure software to reduce its environmental impact! 
 
 This year, we're pushing boundaries by going beyond carbon—exploring the full spectrum of environmental impacts with the [Impact Framework (IF)](https://if.greensoftware.foundation/), an open source Beta measurement tool for measuring software across all components and environments, to reduce the ecological footprint of software.
 
