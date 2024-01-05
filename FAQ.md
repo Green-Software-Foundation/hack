@@ -7,7 +7,7 @@
 A: CarbonHack is a global contest for developers who want to make a difference in the fight against climate change. It challenges participants to use the Impact Framework, a tool that allows measuring and calculating the environmental impact of software.
 
 ### Q: When and where is CarbonHack 2024? 
-A: CarbonHack 2024 will take place from 26th February to 15th March 2024. It is an online event, so you can join from anywhere in the world so long as the rules are followed.
+A: CarbonHack 2024 will take place from 18th March to 8th April 2024. It is an online event, so you can join from anywhere in the world so long as the rules are followed.
 
 ### Q: What is the theme of CarbonHack 2024? 
 A: The theme of CarbonHack 2024 is measurement. We want to see how you can use the Impact Framework to measure the carbon emissions, water consumption, or any other environmental impact of software. You can also create models, manifest files, content, or contributions to the framework itself.
