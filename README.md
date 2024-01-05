@@ -57,5 +57,5 @@ For any questions not answered here, reach out to carbonhack@greensoftware.found
 
 🤝 **Sponsor Carbon Hack: Accelerate innovation and sustainability**
 
-Join us as we code for a greener, more sustainable future. [View sponsorship deck](https://drive.google.com/file/d/1butd5kRe85E2rZyrvfabFg_rX-hOquvx/view?usp=sharing). 
+Join us as we code for a greener, more sustainable future. [View our sponsorship page](https://github.com/Green-Software-Foundation/hack/blob/main/sponsoring.md).
 
