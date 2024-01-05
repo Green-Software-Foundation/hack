@@ -1,11 +1,12 @@
 ---
-name: Idea
+name: IF Team Ideas
 about: This describes a possible project for hackathon participants
 title: "[Idea] ...."
-labels: idea
+labels: if-team-idea
 assignees: ''
 
 ---
+
 Please use this template to suggest an idea that people can try to implement as part of Carbon Hack 24. **Provide as much detail as possible**. If someone else submitted an idea but you feel you can do a better job of explaining, please go ahead and submit again.
 
 ## Prize category
@@ -120,5 +121,3 @@ graph:
               requests: 380
 
 ```
-
-
