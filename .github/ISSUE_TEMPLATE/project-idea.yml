@@ -1,37 +1,36 @@
-name: Bug Report
-description: File a bug report
+name: Project Idea
+description: Submit your project idea
 title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+labels: ["project-idea"]
+projects: ["Green-Software-Foundation/47"]
 assignees:
-  - octocat
+  - adamj89
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thank you for submitting your project idea!
   - type: input
-    id: contact
+    id: team-name
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Team Name
+      description: Do you have a team name already? Put it here if so. 
+      placeholder: e.g. Team Awesome
     validations:
       required: false
   - type: textarea
-    id: what-happened
+    id: project-description
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Project overview:
+      description: Please give us an overview of your project
+      placeholder: Tell us what you want to build!
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: prize
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Prize Category
+      description: Please select the prize you are entering for
       options:
         - 1.0.2 (Default)
         - 1.0.3 (Edge)
