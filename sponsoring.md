@@ -19,5 +19,5 @@ In sponsoring Carbon Hack 2024, your company acknowledges the increasing environ
 - Feature during the main award ceremony
 
 
-For more details please review the [Sponsorship Prospectus](https://github.com/Green-Software-Foundation/hack/blob/main/CarbonHack24-Sponsorship.pdf).
+For more details please review the [Sponsorship Prospectus](https://github.com/Green-Software-Foundation/hack/blob/main/Files/CarbonHack24-Sponsorship.pdf).
 ### ⭐️ Are you ready to sponsor Carbon Hack? _Fill out the sponsorship form [here](https://airtable.com/appEgAD7NpmIQ1tp9/pagVE3jqLCtdomWHi/form/?utm_source=sponsor-form&utm_medium=online&utm_campaign=hack24&utm_term=)_.
