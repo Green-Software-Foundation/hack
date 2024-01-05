@@ -7,9 +7,10 @@ If you already know why you're here, read the following guides for information:
 - ### [Carbon Hack Prize Categories](https://github.com/Green-Software-Foundation/hack/blob/main/prizes.md)
 - ### [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/blob/main/FAQ.md)
 
+---- 
+
 If you're looking to understand the basics of Carbon Hack, read below!
 
----- 
 
 🌍 **Beyond Carbon, Beyond Limits**
 
