@@ -1,4 +1,4 @@
-# Join the Green Software Foundation's Carbon Hack 2024!
+# Join Carbon Hack 2024 from the GSF!
 
 Read the following guides for information:
 - ### [Participating in Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/participating.md)
