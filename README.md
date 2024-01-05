@@ -1,11 +1,13 @@
 # Join Carbon Hack 2024 from the GSF!
 
-Read the following guides for information:
+If you already know why you're here, read the following guides for information:
 - ### [Participating in Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/participating.md)
 - ### [Sponsoring Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/sponsoring.md)
 - ### [Supporting Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/supporting.md)
 - ### [Carbon Hack Prize Categories](https://github.com/Green-Software-Foundation/hack/blob/main/prizes.md)
 - ### [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/blob/main/FAQ.md)
+
+If you're looking to understand the basics of Carbon Hack, read below!
 
 ---- 
 
