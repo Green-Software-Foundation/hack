@@ -1,7 +1,7 @@
 # Carbon Hack 2024
 ## Sponsor Guide
 
-In 2024, Carbon Hack is about how we measure the environmental impact of software. From Monday, February 26 - Friday, March 15, 2024, developers and engineers will compete to showcase their best application of IF in measuring software to reduce the ecological footprint of software.
+In 2024, Carbon Hack is about how we measure the environmental impact of software. In Spring 2024, developers and engineers will compete to showcase their best application of IF in measuring software to reduce the ecological footprint of software.
 Our **sponsors** are key to the success of Carbon Hack 2024.
 
 In sponsoring Carbon Hack 2024, your company acknowledges the increasing environmental impact of software and reinforces its commitment to software sustainability. 
