@@ -1,0 +1,55 @@
+title: "[Project Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit your project idea below!
+  - type: textarea
+    id: improvements
+    attributes:
+      label: Project Idea
+      description: "Put your project idea below"
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## About your team
+        Tell us more about you
+  - type: input
+    id: has-id
+    attributes:
+      label: Suggestions
+      description: A description about suggestions to help you
+    validations:
+      required: true
+  - type: dropdown
+    id: download
+    attributes:
+      label: Which prize category does this project align to?
+      options:
+        - Beyond Carbon
+        - Best Model
+        - Best Content
+        - Best Contribution to the Framework
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Check that box!
+      options:
+        - label: This one!
+          required: true
+        - label: Is this an Undergraduate project?
+  - type: markdown
+    attributes:
+      value: |
+        ### The thrilling conclusion
+        _to our template_
