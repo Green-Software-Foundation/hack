@@ -17,10 +17,14 @@ Best piece of content published about Impact Framework, an article, tutorial, vi
 ### ✨ Best Contribution to the Framework
 Best contribution to the Impact Framework tool itself. Adding a new feature or enhancing an existing one.
 
-_____
-We are also keen to broaden the opportunities for those who are studying:
+---
+
+_We are also keen to broaden the opportunities for those who are studying:_
 ### 🎓 Best Undergraduate
 Specific prize for Undergraduate Students, drawn from across the main categories.
 
+---
 
+Sponsoring organizations can have teams participate in the hackathon. To ensure fairness and maintain the integrity of this event, judges will be asked to recuse themselves from scoring where their organization is concerned.
 
+---
