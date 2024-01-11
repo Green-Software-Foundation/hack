@@ -32,10 +32,10 @@ body:
       label: Prize Category
       description: Please select the [prize category](https://github.com/Green-Software-Foundation/hack/blob/main/prizes.md) you are entering for
       options:
-        - Best Contribution to the Framework
-        - Best Content
-        - Best Model
         - Beyond Carbon
+        - Best Model
+        - Best Content        
+        - Best Contribution to the Framework
     validations:
       required: true
   - type: checkboxes
@@ -50,17 +50,18 @@ body:
     id: questions
     attributes:
       label: Questions to be answered
-      description: Do you have any questions that you'd like us to clarify before you build your soltuion?
+      description: Do you have any questions that you'd like us to clarify before you build your solution?
       placeholder: Your questions here
     validations:
       required: false
   - type: dropdown
     id: team
     attributes:
-      label: Have you built a project team yet?
+      label: Have you got a project team yet?
       description: Please answer so we know if you need help
       options:
-        - Yes but we are still open to extras
+        - Yes and we aren't recruiting
+        - Yes and we are still open to extras members
         - No, but we will find people ourself
         - No, we would like your help to find team-mates
         - I am working on this project alone
