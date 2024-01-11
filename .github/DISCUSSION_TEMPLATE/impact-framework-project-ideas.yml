@@ -36,7 +36,7 @@ body:
     attributes:
       label: "Impact"
       description: "Finish this sentence:"
-      placeholder: "If this idea is successful implemented the ...."
+      placeholder: "If this idea is successfully implemented the ...."
     validations:
       required: true              
   - type: textarea
