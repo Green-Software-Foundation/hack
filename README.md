@@ -1,13 +1,11 @@
-# Join Carbon Hack 2024 from the GSF!
+![image](https://github.com/Green-Software-Foundation/hack/assets/20337337/f7a0f478-e5ad-4d5c-bb5d-395426e2a42a)
 
 If you already know why you're here, read the following guides for information:
-- ### [Participating in Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/participating.md)
-- ### [Sponsoring Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/sponsoring.md)
-- ### [Supporting Carbon Hack](https://github.com/Green-Software-Foundation/hack/blob/main/supporting.md)
-- ### [Carbon Hack Prize Categories](https://github.com/Green-Software-Foundation/hack/blob/main/prizes.md)
-- ### [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/blob/main/FAQ.md)
-
-![image](https://github.com/Green-Software-Foundation/hack/assets/20337337/f7a0f478-e5ad-4d5c-bb5d-395426e2a42a)
+- ### [Participating in Carbon Hack](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
+- ### [Sponsoring Carbon Hack](https://github.com/Green-Software-Foundation/hack/wiki/Sponsoring-Carbon-Hack)
+- ### [Supporting Carbon Hack](https://github.com/Green-Software-Foundation/hack/wiki/Supporting-the-Hack)
+- ### [Carbon Hack Prize Categories](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
+- ### [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/wiki/Frequently-Asked-Questions)
 
 ---- 
 
@@ -53,11 +51,11 @@ Register now  | Learn More About Our Award Categories
 
 ❓ **Got Questions? We've got answers!**
 
-Please consult our [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/blob/main/FAQ.md).
+Please consult our [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/wiki/Frequently-Asked-Questions).
 For any questions not answered here, reach out to carbonhack@greensoftware.foundation.
 
 
 🤝 **Sponsor Carbon Hack: Accelerate innovation and sustainability**
 
-Join us as we code for a greener, more sustainable future. [View our sponsorship page](https://github.com/Green-Software-Foundation/hack/blob/main/sponsoring.md).
+Join us as we code for a greener, more sustainable future. [View our sponsorship page](https://github.com/Green-Software-Foundation/hack/wiki/Sponsoring-Carbon-Hack).
 
