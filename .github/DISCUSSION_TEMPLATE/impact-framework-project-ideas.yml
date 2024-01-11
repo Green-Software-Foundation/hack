@@ -36,7 +36,8 @@ body:
     id: impact
     attributes:
       label: "Impact"
-      description: "Finish this sentence: 'If this idea is successful implemented the ....'"
+      description: "Finish this sentence:"
+      placeholder: "If this idea is successful implemented the ...."
     validations:
       required: true              
   - type: textarea
@@ -51,5 +52,27 @@ body:
     attributes:
       label: "Difficulty"
       description: "Provide an assessment of the expected difficulty from 1-5 to help hackers find tasks at their preferred skill level"
+    validations:
+      required: true                          
+  - type: textarea
+    id: scope
+    attributes:
+      label: "Scope of Work"
+      description: "List some of the tasks that will be required to implement this idea"
+    validations:
+      required: true                          
+  - type: textarea
+    id: examples
+    attributes:
+      label: "Examples & Resources"
+      description: "Provide any links to prior discussions, similar code, examples, pseudocode, diagrams or anything else than can help the hacker understand the task"
+    validations:
+      required: true                          
+  - type: textarea
+    id: manifest
+    attributes:
+      label: "Manifest file"
+      description: "Provide a dummy Mmnifest file to help the implementer understand how this functionality will be executed, provide them with the necessary data, observations and structure so they can move fast with development.
+      render: bash      
     validations:
       required: true                          
