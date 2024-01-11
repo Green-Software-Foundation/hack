@@ -16,3 +16,40 @@ body:
         - label: Best contribution to the framework        
     validations:
       required: true      
+  - type: textarea
+    id: user-story
+    attributes:
+      label: "User Story"
+      description: "Describe the benefits of this change, ideally in the following format"
+      placeholder: "As a < type of user >, I want < some goal > so that < some reason >"
+    validations:
+      required: true      
+  - type: textarea
+    id: rationale
+    attributes:
+      label: "Rationale"
+      description: "Provide the relevant background information to understand why this is a useful thing to work on"
+      placeholder: "This is where you can provide more details that help the reader understand why you want to make this change"
+    validations:
+      required: true        
+  - type: textarea
+    id: impact
+    attributes:
+      label: "Impact"
+      description: "Finish this sentence: 'If this idea is successful implemented the ....'"
+    validations:
+      required: true              
+  - type: textarea
+    id: implementation-guidelines
+    attributes:
+      label: "Implementation guidelines"
+      description: "If there are specific implementation details that are REQUIRED or PREFERRED please describe them here e.g. this model MUST conform to the ModelPlugin interface e.g. this feature MUST be part of the supercomputer module e.g. this feature SHOULD be be a model plugin"
+    validations:
+      required: true                    
+  - type: textarea
+    id: implementation-guidelines
+    attributes:
+      label: "Difficulty"
+      description: "Provide an assessment of the expected difficulty from 1-5 to help hackers find tasks at their preferred skill level"
+    validations:
+      required: true                          
