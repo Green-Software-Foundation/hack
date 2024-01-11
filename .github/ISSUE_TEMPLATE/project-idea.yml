@@ -1,10 +1,10 @@
-name: Project Idea
-description: Submit your project idea
-title: "[Project Idea]: "
-labels: ["project-idea", "draft project"]
+name: Hackathon Project
+description: Submit your Carbon Hack 24 project and team
+title: "[Project]: "
+labels: ["draft project"]
 projects: ["Green-Software-Foundation/projects/47"]
 assignees:
-  - adamj89
+  - russelltrow
 body:
   - type: markdown
     attributes:
