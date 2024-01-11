@@ -47,7 +47,7 @@ body:
     validations:
       required: true                    
   - type: textarea
-    id: implementation-guidelines
+    id: difficulty
     attributes:
       label: "Difficulty"
       description: "Provide an assessment of the expected difficulty from 1-5 to help hackers find tasks at their preferred skill level"
