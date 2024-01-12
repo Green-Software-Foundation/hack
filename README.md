@@ -6,6 +6,8 @@
 
 ## Welcome to Carbon Hack 2024
 
+<img src="http://i.countdownmail.com/31m3av.gif" border="0" alt="countdownmail.com"/>
+
 🌍 **Beyond Carbon, Beyond Limits**
 
 From **18th March** to **8th April 2024**, technology professionals are invited to revolutionize the way we measure software to reduce its environmental impact! 
