@@ -1,5 +1,5 @@
 name: Hackathon Project
-description: Submit your Carbon Hack 24 project
+description: "Register your Carbon Hack 24 project"
 title: "[Project]: "
 labels: ["draft project"]
 projects: ["Green-Software-Foundation/projects/47"]
@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for submitting your project idea!
+        Thank you for registering your project!
   - type: input
     id: team-name
     attributes:
