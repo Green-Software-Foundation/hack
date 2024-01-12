@@ -1,8 +1,8 @@
 ![image](https://github.com/Green-Software-Foundation/hack/assets/20337337/f7a0f478-e5ad-4d5c-bb5d-395426e2a42a)
 
-(Social media links)
-
-(Shields for interesting stats like number of projects)
+[![5282542_linkedin_network_social network_linkedin logo_icon (3)](https://github.com/Green-Software-Foundation/hack/assets/11027021/91f684ab-31bd-4834-9802-c353eea8cc22)](https://www.linkedin.com/company/green-software-foundation/)
+[![5282551_tweet_twitter_twitter logo_icon](https://github.com/Green-Software-Foundation/hack/assets/11027021/8b6dfd31-02b1-4115-a05c-3116f5af3d1e)](https://twitter.com/gsfcommunity)
+![image](https://img.shields.io/badge/registered_projects-0-AECC53?color=AECC53)
 
 ## Welcome to Carbon Hack 2024
 
@@ -16,13 +16,21 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ## Getting Started
 
-(Visual of the overall process)
+ℹ️ Read [everything you need to know about Carbon Hack 2024](https://github.com/Green-Software-Foundation/hack/wiki)
 
-* Link to wiki for all information
-  * Highlight the participant guide
-* Link to list of projects
-* Link to Discussions
+🚧 View the [list of hackathon projects](https://github.com/Green-Software-Foundation/hack/issues)
+
+💬 See [what is being discussed ](https://github.com/Green-Software-Foundation/hack/discussions)
 
 ## Get Involved
 
+(Placeholder for visual of the overall process)
+
+* Point to participant guide
+* Point to discussions to pitch idea
+* Point to project registration form
+* Point to discussions to find a team
+
 ## Contact
+
+For support or questions, email carbonhack@greensoftware.foundation.
