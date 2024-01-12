@@ -1,61 +1,28 @@
 ![image](https://github.com/Green-Software-Foundation/hack/assets/20337337/f7a0f478-e5ad-4d5c-bb5d-395426e2a42a)
 
-If you already know why you're here, read the following guides for information:
-- ### [Participating in Carbon Hack](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
-- ### [Sponsoring Carbon Hack](https://github.com/Green-Software-Foundation/hack/wiki/Sponsoring-Carbon-Hack)
-- ### [Supporting Carbon Hack](https://github.com/Green-Software-Foundation/hack/wiki/Supporting-the-Hack)
-- ### [Carbon Hack Prize Categories](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
-- ### [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/wiki/Frequently-Asked-Questions)
+(Social media links)
 
----- 
+(Shields for interesting stats like number of projects)
 
-If you're looking to understand the basics of Carbon Hack, read below!
-
+## Welcome to Carbon Hack 2024
 
 🌍 **Beyond Carbon, Beyond Limits**
 
-From 18th March to 8th April 2024, developers, engineers, and non-technical practitioners are invited to revolutionize the way we measure software to reduce its environmental impact! 
+From **18th March** to **8th April 2024**, technology professionals are invited to revolutionize the way we measure software to reduce its environmental impact! 
 
 This year, we're pushing boundaries by going beyond carbon—exploring the full spectrum of environmental impacts with the [Impact Framework (IF)](https://if.greensoftware.foundation/), an open source Beta measurement tool for measuring software across all components and environments, to reduce the ecological footprint of software.
 
-We’re challenging practitioners far and wide to showcase IF's prowess in reducing software's ecological footprint—carbon emissions, water usage, land impact, and more. This is your chance to make a real impact.
+We’re challenging practitioners to come together in small teams to showcase IF's prowess in reducing software's ecological footprint—carbon emissions, water usage, land impact, and more. This is your chance to make a real impact.
 
+## Getting Started
 
-🤝 **Collaborate and Compete: Unite for a Sustainable Future**
+(Visual of the overall process)
 
-Bring your skills to the table as you form small teams (up to 5), combining healthy rivalry with collaboration. Choose your path:
+* Link to wiki for all information
+  * Highlight the participant guide
+* Link to list of projects
+* Link to Discussions
 
-- Measure the Environmental Impact: Utilize IF to measure and understand the environmental impact of software like never before.
+## Get Involved
 
-- Enhance the Framework: Contribute code, integrate new models, plug-ins, applications, or documentation to strengthen IF's capabilities.
-
-- Showcase the framework’s scope: Show how IF can measure various environmental impacts beyond carbon—water usage and more.
-
-[Register now](https://grnsft.org/hack/github) 
-
-
-🌐 **Open to All: Democratizing Sustainability**
-
-Sustainability should be open to everyone—which requires the ingenuity and contributions of technical and non-technical practitioners. Carbon Hack is about creating a tool that allows us to collectively measure for action and ensuring the tool is user-friendly, understandable and easy to learn.
-
-
-🏆 **Unlock Your Potential: Awards and Cash Prizes Await!**
-
-Carbon Hack offers an opportunity to have your ideas assessed by the best in the business, taking your skills and solutions to new heights. And, winners receive a cash prize and improve their chances of becoming a [GSF Champion](https://champions.greensoftware.foundation/). 
-
-
-📝 **Sign up now and be part of the legacy**.
-
-Register now  | Learn More About Our Award Categories
-
-
-❓ **Got Questions? We've got answers!**
-
-Please consult our [Frequently Asked Questions](https://github.com/Green-Software-Foundation/hack/wiki/Frequently-Asked-Questions).
-For any questions not answered here, reach out to carbonhack@greensoftware.foundation.
-
-
-🤝 **Sponsor Carbon Hack: Accelerate innovation and sustainability**
-
-Join us as we code for a greener, more sustainable future. [View our sponsorship page](https://github.com/Green-Software-Foundation/hack/wiki/Sponsoring-Carbon-Hack).
-
+## Contact
