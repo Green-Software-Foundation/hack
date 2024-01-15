@@ -18,10 +18,19 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ## Getting Started
 
+- 🚧 View the [list of other peoples proposed hackathon projects](https://github.com/Green-Software-Foundation/hack/issues)
+- How do I propose a hackathon project of my own? -> a page with specific instructions on how to propose a project
+- Where can I see suggestions and inspiration for project ideas -> (discussions/ideas)
+- Which projects are looking for team-mates?
+- Watch the next hackathon q&a sessions to find out more about IF and ask questions (link to livestream)
+
+## What's next
+
+- I'm ready to register my hackathon project what do I do? -> (form)
+- My hackathon project is complete, how do I submit it to the judges? -> (form)
+- I have a question about the hackthon that is not answered in the wiki -> (discussions)
+
 ℹ️ Read [everything you need to know about Carbon Hack 2024](https://github.com/Green-Software-Foundation/hack/wiki)
-
-🚧 View the [list of hackathon projects](https://github.com/Green-Software-Foundation/hack/issues)
-
 💬 See [what is being discussed ](https://github.com/Green-Software-Foundation/hack/discussions)
 
 ## Get Involved
