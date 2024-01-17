@@ -51,8 +51,8 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to following the hackathon [Rules](https://github.com/Green-Software-Foundation/hack/wiki/Rules) and [Code of Conduct](https://greensoftware.foundation/code-of-conduct)
+      label: Terms of Participation
+      description: 
       options:
-        - label: I agree
+        - label: I agree to the hackathon [Rules](https://github.com/Green-Software-Foundation/hack/wiki/Rules) and [Code of Conduct](https://greensoftware.foundation/code-of-conduct)
           required: true
