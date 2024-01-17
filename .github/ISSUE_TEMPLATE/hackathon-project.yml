@@ -11,7 +11,7 @@ body:
       value: |
         Thank you for registering your project!
   - type: dropdown
-    id: team
+    id: type
     attributes:
       label: Type of project
       options:
