@@ -52,7 +52,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://greensoftware.foundation/code-of-conduct)
+      description: By submitting this issue, you agree to following the hackathon [Rules](https://github.com/Green-Software-Foundation/hack/wiki/Rules) and [Code of Conduct](https://greensoftware.foundation/code-of-conduct)
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree
           required: true
