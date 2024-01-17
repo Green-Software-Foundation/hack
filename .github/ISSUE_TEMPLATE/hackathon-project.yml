@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for registering your project!
+        Please complete the form below to register your hackathon project
   - type: dropdown
     id: type
     attributes:
@@ -24,8 +24,7 @@ body:
     id: project-description
     attributes:
       label: Overview
-      description: Please give us an overview of your project
-      placeholder: Tell us what you want to build!
+      description: Tell us what you plan to build
     validations:
       required: true
   - type: textarea
