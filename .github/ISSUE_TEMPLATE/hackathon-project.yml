@@ -1,7 +1,7 @@
 name: Hackathon Project
 description: "Register your Carbon Hack 24 project"
-title: "[Project]: "
-labels: ["draft project"]
+title: "[Your project name]"
+labels: ["draft"]
 projects: ["Green-Software-Foundation/projects/47"]
 assignees:
   - russelltrow
@@ -10,42 +10,24 @@ body:
     attributes:
       value: |
         Thank you for registering your project!
-  - type: input
-    id: team-name
+  - type: dropdown
+    id: team
     attributes:
-      label: Team Name
-      description: Do you have a team name already? Put it here if so. 
-      placeholder: e.g. Team Awesome
+      label: Type of project
+      options:
+        - Building a plug-in for Impact Framework
+        - Enhancing the Impact Framework
+        - Writing content about Impact Framework
     validations:
-      required: false
+      required: true
   - type: textarea
     id: project-description
     attributes:
-      label: Project overview
+      label: Overview
       description: Please give us an overview of your project
       placeholder: Tell us what you want to build!
     validations:
       required: true
-  - type: dropdown
-    id: prize
-    attributes:
-      label: Prize Category
-      description: Please select the [prize category](https://github.com/Green-Software-Foundation/hack/blob/main/prizes.md) you are entering for
-      options:
-        - Beyond Carbon
-        - Best Model
-        - Best Content        
-        - Best Contribution to the Framework
-    validations:
-      required: true
-  - type: checkboxes
-    id: student
-    attributes:
-      label: Undergraduate Student Prize
-      description: All members of my team are undergraduate students and I want to be entered into this prize category in addition to the chosen prize category above.
-      options:
-        - label: All team members are students
-          required: false
   - type: textarea
     id: questions
     attributes:
