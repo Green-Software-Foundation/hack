@@ -22,7 +22,7 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 🚧 [View the projects already registered](https://github.com/Green-Software-Foundation/hack/issues)
 
-💭 Got a project idea but not sure it's a good one? [Gather feedback on your idea from the community](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
+🧠 Got a project idea but not sure it's a good one? [Gather feedback on your idea from the community](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
 
 💡 Not sure what to build? [Get inspiration from the Impact Framework team](https://github.com/Green-Software-Foundation/hack/discussions/categories/impact-framework-project-ideas)
 
@@ -30,7 +30,7 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 📺 Questions on Impact Framework? [Join the next hackathon Q&A live stream](https://grnsft.org/hack/live/github)
 
-🧠 Got more questions? [Check the Wiki](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
+❓ More questions? [Check the Wiki](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
 
 
 ## Quick Links
