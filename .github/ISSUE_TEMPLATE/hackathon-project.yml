@@ -52,5 +52,5 @@ body:
       label: Terms of Participation
       description: 
       options:
-        - label: I agree to the hackathon [Rules & Terms](https://github.com/Green-Software-Foundation/hack/wiki/Rules-and-Terms) and [Code of Conduct](https://greensoftware.foundation/code-of-conduct)
+        - label: I agree to the hackathon [Rules & Terms](https://github.com/Green-Software-Foundation/hack/wiki/Rules-and-Terms) and [Code of Conduct](https://github.com/Green-Software-Foundation/hack/wiki/Code-of-Conduct)
           required: true
