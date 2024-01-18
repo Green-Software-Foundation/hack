@@ -33,10 +33,10 @@ body:
   - type: dropdown
     id: download
     attributes:
-      label: Which prize category does this project align to?
+      label: Which prize category might this project align to?
       options:
         - Beyond Carbon
-        - Best Model
+        - Best Plugin
         - Best Content
         - Best Contribution to the Framework
     validations:
