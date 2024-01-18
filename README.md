@@ -30,25 +30,17 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 📺 Want to know more about Impact Framework or the Hackathon? [Join the upcoming Q&A live stream](https://grnsft.org/hack/live/github)
 
-🧠 Got questions? [Find everything you need to know about Carbon Hack 2024](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
+🧠 Got questions? [Check the Wiki](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
 
 
-## Ready to Hack?
+## Quick Links
 
-- I'm ready to register my hackathon project what do I do? -> (form)
-- My hackathon project is complete, how do I submit it to the judges? -> (form)
-- I have a question about the hackthon that is not answered in the wiki -> (discussions)
+* [Register your hackathon project](https://github.com/Green-Software-Foundation/hack/issues)
+* [Pitch a project idea](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
+* [Get support with your project](https://github.com/Green-Software-Foundation/hack/discussions/categories/project-support)
+* [Prizes & Judging](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
+* [Hackathon Rules](https://github.com/Green-Software-Foundation/hack/wiki/Supporting-the-Hack)
 
-
-## Get Involved
-
-(Placeholder for visual of the overall process)
-
-* Point to participant guide
-* Point to discussions to pitch idea
-* Point to project registration form
-* Point to discussions to find a team
-
-## Contact
+## Contact Us
 
 For support or questions, email carbonhack@greensoftware.foundation.
