@@ -16,22 +16,29 @@ This year, we're pushing boundaries by going beyond carbon—exploring the full 
 
 We’re challenging practitioners to come together in small teams to showcase IF's prowess in reducing software's ecological footprint—carbon emissions, water usage, land impact, and more. This is your chance to make a real impact.
 
-## Getting Started
+## Get Started
 
-- 🚧 View the [list of other peoples proposed hackathon projects](https://github.com/Green-Software-Foundation/hack/issues)
-- How do I propose a hackathon project of my own? -> a page with specific instructions on how to propose a project
-- Where can I see suggestions and inspiration for project ideas -> (discussions/ideas)
-- Which projects are looking for team-mates?
-- Watch the next hackathon q&a sessions to find out more about IF and ask questions (link to livestream)
+🚧 [View the proposed hackathon projects](https://github.com/Green-Software-Foundation/hack/issues)
 
-## What's next
+🚀 Ready to start hacking? [Learn how to propose a hackathon project of your own](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
+
+💭 Got a project idea but not sure if it's a good one? [Gather feedback on your idea from the community](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
+
+💡 Not sure what to build? [Get inspiration from the Impact Framework team](https://github.com/Green-Software-Foundation/hack/discussions/categories/impact-framework-project-ideas)
+
+🧑‍💻 Want to hack with others? [Find a project to join](https://github.com/Green-Software-Foundation/hack/discussions/categories/matchmaking)
+
+📺 Want to know more about Impact Framework or the Hackathon? [Join the upcoming Q&A live stream](https://grnsft.org/hack/live/github)
+
+🧠 Got questions? [Find everything you need to know about Carbon Hack 2024](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
+
+
+## Ready to Hack?
 
 - I'm ready to register my hackathon project what do I do? -> (form)
 - My hackathon project is complete, how do I submit it to the judges? -> (form)
 - I have a question about the hackthon that is not answered in the wiki -> (discussions)
 
-ℹ️ Read [everything you need to know about Carbon Hack 2024](https://github.com/Green-Software-Foundation/hack/wiki)
-💬 See [what is being discussed ](https://github.com/Green-Software-Foundation/hack/discussions)
 
 ## Get Involved
 
