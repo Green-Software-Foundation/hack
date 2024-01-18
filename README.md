@@ -18,7 +18,7 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ## Get Involved
 
-🚀 Ready to start hacking? [Learn how to register your hackathon project](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
+🚀 Ready to start hacking? [Learn how to raise your hackathon project](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
 
 🚧 [View the projects already registered](https://github.com/Green-Software-Foundation/hack/issues)
 
@@ -35,11 +35,11 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ## Quick Links
 
-* **[Register your hackathon project](https://github.com/Green-Software-Foundation/hack/issues)**
+* **[Raise your hackathon project](https://github.com/Green-Software-Foundation/hack/issues/new?labels=draft&projects=Green-Software-Foundation%2Fprojects%2F47&template=hackathon-project.yml&title=%5BYour+project+name%5D)**
 * [Pitch a project idea](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
 * [Get support with your project](https://github.com/Green-Software-Foundation/hack/discussions/categories/project-support)
 * [See Prizes & Judging](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
-* [Review hackathon rules](https://github.com/Green-Software-Foundation/hack/wiki/Supporting-the-Hack)
+* [Review hackathon rules](https://github.com/Green-Software-Foundation/hack/wiki/Rules)
 
 ## Contact Us
 
