@@ -9,9 +9,9 @@ body:
       label: "Prize category"
       description: "Help the participant understand which of the prize categories this idea would best fit"
       options:
-        - label: Best Model
-        - label: Best Content
         - label: Beyond Carbon
+        - label: Best Plugin
+        - label: Best Content
         - label: Best contribution to the framework        
     validations:
       required: true      
