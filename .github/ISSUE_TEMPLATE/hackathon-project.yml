@@ -1,15 +1,13 @@
 name: Hackathon Project
-description: "Register your Carbon Hack 24 project"
+description: "Raise your Carbon Hack 24 project"
 title: "[Your project name]"
 labels: ["draft"]
 projects: ["Green-Software-Foundation/projects/47"]
-assignees:
-  - russelltrow
 body:
   - type: markdown
     attributes:
       value: |
-        Please complete the form below to register your hackathon project
+        Please complete the form below to raise your hackathon project
   - type: dropdown
     id: type
     attributes:
