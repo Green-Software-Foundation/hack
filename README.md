@@ -28,9 +28,9 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 🧑‍💻 Want to hack with others? [Find a project to join](https://github.com/Green-Software-Foundation/hack/discussions/categories/matchmaking)
 
-📺 Want to know more about Impact Framework or the Hackathon? [Join the upcoming Q&A live stream](https://grnsft.org/hack/live/github)
+📺 Questions on Impact Framework? [Join the next hackathon Q&A live stream](https://grnsft.org/hack/live/github)
 
-🧠 Got questions? [Check the Wiki](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
+🧠 Got more questions? [Check the Wiki](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
 
 
 ## Quick Links
