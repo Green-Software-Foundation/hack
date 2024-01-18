@@ -16,11 +16,11 @@ This year, we're pushing boundaries by going beyond carbon—exploring the full 
 
 We’re challenging practitioners to come together in small teams to showcase IF's prowess in reducing software's ecological footprint—carbon emissions, water usage, land impact, and more. This is your chance to make a real impact.
 
-## Get Started
+## Get Involved
 
-🚧 [View the proposed hackathon projects](https://github.com/Green-Software-Foundation/hack/issues)
+🚀 Ready to start hacking? [Learn how to register a hackathon project](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
 
-🚀 Ready to start hacking? [Learn how to propose a hackathon project of your own](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
+🚧 [View the already proposed hackathon projects](https://github.com/Green-Software-Foundation/hack/issues)
 
 💭 Got a project idea but not sure if it's a good one? [Gather feedback on your idea from the community](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
 
