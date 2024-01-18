@@ -39,7 +39,7 @@ We’re challenging practitioners to come together in small teams to showcase IF
 * [Pitch a project idea](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
 * [Get support with your project](https://github.com/Green-Software-Foundation/hack/discussions/categories/project-support)
 * [See Prizes & Judging](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
-* [Review hackathon rules](https://github.com/Green-Software-Foundation/hack/wiki/Rules)
+* [Review hackathon rules](https://github.com/Green-Software-Foundation/hack/wiki/Rules-and-Terms)
 
 ## Contact Us
 
