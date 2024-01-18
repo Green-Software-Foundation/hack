@@ -18,11 +18,11 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ## Get Involved
 
-🚀 Ready to start hacking? [Learn how to register a hackathon project](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
+🚀 Ready to start hacking? [Learn how to register your hackathon project](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
 
-🚧 [View the already proposed hackathon projects](https://github.com/Green-Software-Foundation/hack/issues)
+🚧 [View the projects already registered](https://github.com/Green-Software-Foundation/hack/issues)
 
-💭 Got a project idea but not sure if it's a good one? [Gather feedback on your idea from the community](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
+💭 Got a project idea but not sure it's a good one? [Gather feedback on your idea from the community](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
 
 💡 Not sure what to build? [Get inspiration from the Impact Framework team](https://github.com/Green-Software-Foundation/hack/discussions/categories/impact-framework-project-ideas)
 
@@ -35,11 +35,11 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ## Quick Links
 
-* [Register your hackathon project](https://github.com/Green-Software-Foundation/hack/issues)
+* **[Register your hackathon project](https://github.com/Green-Software-Foundation/hack/issues)**
 * [Pitch a project idea](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
 * [Get support with your project](https://github.com/Green-Software-Foundation/hack/discussions/categories/project-support)
-* [Prizes & Judging](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
-* [Hackathon Rules](https://github.com/Green-Software-Foundation/hack/wiki/Supporting-the-Hack)
+* [See Prizes & Judging](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
+* [Review hackathon rules](https://github.com/Green-Software-Foundation/hack/wiki/Supporting-the-Hack)
 
 ## Contact Us
 
