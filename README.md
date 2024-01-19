@@ -22,9 +22,9 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 🚧 [View the projects already registered](https://github.com/Green-Software-Foundation/hack/issues)
 
-🧠 Got a project idea but not sure it's a good one? [Gather feedback on your idea from the community](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
+🧠 Got a project idea but not sure it's a good one? [Gather feedback on your idea from the community](https://github.com/Green-Software-Foundation/hack/discussions/categories/develop-an-idea)
 
-💡 Not sure what to build? [Get inspiration from the Impact Framework team](https://github.com/Green-Software-Foundation/hack/discussions/categories/impact-framework-project-ideas)
+💡 Not sure what to build? [Get inspiration from the Impact Framework team](https://github.com/Green-Software-Foundation/hack/discussions?discussions_q=is%3Aopen+label%3Aif-team-idea)
 
 🧑‍💻 Want to hack with others? [Find a project to join](https://github.com/Green-Software-Foundation/hack/discussions/categories/matchmaking)
 
@@ -37,7 +37,7 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 * **[Raise your hackathon project](https://github.com/Green-Software-Foundation/hack/issues/new?labels=draft&projects=Green-Software-Foundation%2Fprojects%2F47&template=hackathon-project.yml&title=%5BYour+project+name%5D)**
 * [Register your hackathon project team](https://hack.greensoftware.foundation/register)
-* [Pitch a project idea](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
+* [Pitch a project idea](https://github.com/Green-Software-Foundation/hack/discussions/categories/develop-an-idea)
 * [Get support with your project](https://github.com/Green-Software-Foundation/hack/discussions/categories/project-support)
 * [See Prizes & Judging](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
 * [Review hackathon rules](https://github.com/Green-Software-Foundation/hack/wiki/Rules-and-Terms)
