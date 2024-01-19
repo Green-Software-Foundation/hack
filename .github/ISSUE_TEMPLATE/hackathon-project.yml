@@ -46,6 +46,14 @@ body:
         - I am working on this project alone
     validations:
       required: true
+  - type: textarea
+    id: team
+    attributes:
+      label: Project team
+      description: Please list the GitHub usernames of every team mate in this hackathon project. Only people who's handles are listed in this text area will be recognised as team mates from the hackathon team.
+      placeholder: e.g. @jawache
+    validations:
+      required: false      
   - type: checkboxes
     id: terms
     attributes:
