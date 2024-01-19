@@ -22,9 +22,7 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 🚧 [View the projects already registered](https://github.com/Green-Software-Foundation/hack/issues)
 
-🧠 Got a project idea but not sure it's a good one? [Gather feedback on your idea from the community](https://github.com/Green-Software-Foundation/hack/discussions/categories/develop-an-idea)
-
-💡 Not sure what to build? [Get inspiration from the Impact Framework team](https://github.com/Green-Software-Foundation/hack/discussions?discussions_q=is%3Aopen+label%3Aif-team-idea)
+💡 Not sure what to build? [Get inspiration](https://github.com/Green-Software-Foundation/hack/discussions/categories/develop-an-idea)
 
 🧑‍💻 Want to hack with others? [Find a project to join](https://github.com/Green-Software-Foundation/hack/discussions/categories/matchmaking)
 
