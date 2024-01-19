@@ -36,10 +36,12 @@ We’re challenging practitioners to come together in small teams to showcase IF
 ## Quick Links
 
 * **[Raise your hackathon project](https://github.com/Green-Software-Foundation/hack/issues/new?labels=draft&projects=Green-Software-Foundation%2Fprojects%2F47&template=hackathon-project.yml&title=%5BYour+project+name%5D)**
+* [Register your hackathon project team](https://hack.greensoftware.foundation/register)
 * [Pitch a project idea](https://github.com/Green-Software-Foundation/hack/discussions/categories/pitch-an-idea)
 * [Get support with your project](https://github.com/Green-Software-Foundation/hack/discussions/categories/project-support)
 * [See Prizes & Judging](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
 * [Review hackathon rules](https://github.com/Green-Software-Foundation/hack/wiki/Rules-and-Terms)
+* [Submit your project for judging](https://hack.greensoftware.foundation/submit)
 
 ## Contact Us
 
