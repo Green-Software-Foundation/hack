@@ -47,7 +47,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: team
+    id: teamlist
     attributes:
       label: Project team
       description: Please list the GitHub usernames of every team mate in this hackathon project. Only people who's handles are listed in this text area will be recognised as team mates from the hackathon team.
