@@ -18,28 +18,26 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ## Get Involved
 
-🚀 Ready to start hacking? [Learn how to raise your hackathon project](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide)
+🚀 Ready to start hacking? [Learn how to propose your hackathon project](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide#i-want-to-lead-a-hackathon-project)
+
+🧑‍💻 Want to hack with others? [Find a hackathon project to join](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide#i-want-to-join-a-hackathon-project)
 
 🚧 [View the projects already registered](https://github.com/Green-Software-Foundation/hack/issues)
 
 💡 Not sure what to build? [Get inspiration](https://github.com/Green-Software-Foundation/hack/discussions/categories/develop-an-idea)
 
-🧑‍💻 Want to hack with others? [Find a project to join](https://github.com/Green-Software-Foundation/hack/discussions/categories/matchmaking)
-
 📺 Questions on Impact Framework? [Join the next hackathon Q&A live stream](https://grnsft.org/hack/live/github)
 
 ❓ More questions? [Check the Wiki](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
 
-
 ## Quick Links
 
-* **[Raise your hackathon project](https://github.com/Green-Software-Foundation/hack/issues/new?labels=draft&projects=Green-Software-Foundation%2Fprojects%2F47&template=hackathon-project.yml&title=%5BYour+project+name%5D)**
-* [Register your hackathon project team](https://hack.greensoftware.foundation/register)
-* [Pitch a project idea](https://github.com/Green-Software-Foundation/hack/discussions/categories/develop-an-idea)
+* **[Propose your hackathon project](https://github.com/Green-Software-Foundation/hack/issues/new?labels=draft&projects=Green-Software-Foundation%2Fprojects%2F47&template=hackathon-project.yml&title=%5BYour+project+name%5D)**
+* [Register your hackathon project](https://hack.greensoftware.foundation/register)
+* [Find hackathon ideas to work on](https://github.com/Green-Software-Foundation/hack/discussions/categories/develop-an-idea)
 * [Get support with your project](https://github.com/Green-Software-Foundation/hack/discussions/categories/project-support)
 * [See Prizes & Judging](https://github.com/Green-Software-Foundation/hack/wiki/Prizes)
 * [Review hackathon rules](https://github.com/Green-Software-Foundation/hack/wiki/Rules-and-Terms)
-* [Submit your project for judging](https://hack.greensoftware.foundation/submit)
 
 ## Contact Us
 
