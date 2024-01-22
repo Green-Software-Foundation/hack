@@ -6,6 +6,8 @@
 
 ## Welcome to Carbon Hack 2024
 
+Hacking starts in
+
 <img src="http://i.countdownmail.com/31m3av.gif" border="0" alt="countdownmail.com"/>
 
 🌍 **Beyond Carbon, Beyond Limits**
