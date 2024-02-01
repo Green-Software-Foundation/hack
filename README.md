@@ -32,6 +32,17 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ❓ More questions? [Check the Wiki](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
 
+## Sponsors
+
+![amadeus](https://github.com/Green-Software-Foundation/hack/assets/11027021/f3f7a747-e8d6-4bea-9939-a758a5ba0354)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![IMDA](https://github.com/Green-Software-Foundation/hack/assets/11027021/f7c7dae4-4c7b-4186-b7d9-ce572dd70539)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![nedbank](https://github.com/Green-Software-Foundation/hack/assets/11027021/00a04999-b2b5-47e1-8d92-ef88e070c3ea)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![sentry](https://github.com/Green-Software-Foundation/hack/assets/11027021/e5bf0d65-9ba5-4d3e-be37-10bfb5671470)
+
+## Community Partners
+
+![microsoft-supporting](https://github.com/Green-Software-Foundation/hack/assets/11027021/d45e6f38-0b74-498a-a811-f501ae5a9d1e)
+
 ## Quick Links
 
 * **[Propose your hackathon project](https://github.com/Green-Software-Foundation/hack/issues/new?labels=draft&projects=Green-Software-Foundation%2Fprojects%2F47&template=hackathon-project.yml&title=%5BYour+project+name%5D)**
