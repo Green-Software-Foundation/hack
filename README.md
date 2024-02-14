@@ -35,6 +35,7 @@ We’re challenging practitioners to come together in small teams to showcase IF
 ## Sponsors
 
 ![amadeus](https://github.com/Green-Software-Foundation/hack/assets/11027021/f3f7a747-e8d6-4bea-9939-a758a5ba0354)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![aveva-2](https://github.com/Green-Software-Foundation/hack/assets/11027021/0fe4278a-1404-4788-aa13-bb2bc80df122)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![IMDA](https://github.com/Green-Software-Foundation/hack/assets/11027021/f7c7dae4-4c7b-4186-b7d9-ce572dd70539)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![nedbank](https://github.com/Green-Software-Foundation/hack/assets/11027021/00a04999-b2b5-47e1-8d92-ef88e070c3ea)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![sentry](https://github.com/Green-Software-Foundation/hack/assets/11027021/e5bf0d65-9ba5-4d3e-be37-10bfb5671470)
