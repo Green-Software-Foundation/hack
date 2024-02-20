@@ -9,15 +9,17 @@ body:
       value: |
         Please complete the form below to raise your hackathon project
   - type: dropdown
-    id: type
+    id: prize
     attributes:
-      label: Type of project
+      label: Prize category
+      description: Select the [prize category](https://github.com/Green-Software-Foundation/hack/wiki/Prizes) you are entering for
       options:
-        - Building a plug-in for Impact Framework
-        - Enhancing the Impact Framework
-        - Writing content about Impact Framework
+        - Beyond Carbon
+        - Best Content
+        - Best Contribution to the Framework
+        - Best Plugin
     validations:
-      required: true
+      required: true      
   - type: textarea
     id: project-description
     attributes:
