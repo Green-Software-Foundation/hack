@@ -34,7 +34,7 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ## Sponsors
 
-![amadeus](https://github.com/Green-Software-Foundation/hack/assets/11027021/f3f7a747-e8d6-4bea-9939-a758a5ba0354)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![308240221-7d620520-52ac-4156-bd8e-a83c58c37d11](https://github.com/Green-Software-Foundation/hack/assets/11027021/f1adcd5f-b4a2-40f2-a7dc-dd14e026ee6e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![aveva-2](https://github.com/Green-Software-Foundation/hack/assets/11027021/0fe4278a-1404-4788-aa13-bb2bc80df122)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![IMDA](https://github.com/Green-Software-Foundation/hack/assets/11027021/f7c7dae4-4c7b-4186-b7d9-ce572dd70539)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![nedbank](https://github.com/Green-Software-Foundation/hack/assets/11027021/00a04999-b2b5-47e1-8d92-ef88e070c3ea)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,6 +42,7 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ## Community Partners
 
+![308240684-555aa97b-0dbf-4fa5-b659-7e982a63743e](https://github.com/Green-Software-Foundation/hack/assets/11027021/a915b641-f7bc-46e8-aca9-09f2daeca601)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![microsoft-supporting](https://github.com/Green-Software-Foundation/hack/assets/11027021/d45e6f38-0b74-498a-a811-f501ae5a9d1e)
 
 ## Quick Links
