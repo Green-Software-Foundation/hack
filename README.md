@@ -2,7 +2,6 @@
 
 [![5282542_linkedin_network_social network_linkedin logo_icon (3)](https://github.com/Green-Software-Foundation/hack/assets/11027021/91f684ab-31bd-4834-9802-c353eea8cc22)](https://www.linkedin.com/company/green-software-foundation/)
 [![5282551_tweet_twitter_twitter logo_icon](https://github.com/Green-Software-Foundation/hack/assets/11027021/8b6dfd31-02b1-4115-a05c-3116f5af3d1e)](https://twitter.com/gsfcommunity)
-![image](https://img.shields.io/badge/registered_projects-0-AECC53?color=AECC53)
 
 ## Welcome to Carbon Hack 2024
 
