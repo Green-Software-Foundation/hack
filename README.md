@@ -32,6 +32,12 @@ We’re challenging practitioners to come together in small teams to showcase IF
 
 ❓ More questions? [Check the Wiki](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
 
+## Impact Framework
+
+Check out our latest video explaining the use and power of Impact Framework (IF), a cutting-edge, open source measurement tool debuting at Carbon Hack 24 that is democratizing impact data and decentralizing software measurement to reduce software's environmental impacts.
+
+[![impact framework explainer video)](https://github.com/Green-Software-Foundation/hack/assets/11027021/541b9e21-85ab-47ab-8d43-c8e2111408a7)](https://www.youtube.com/watch?v=msk-55owTeM)
+
 ## Sponsors
 
 ![308240221-7d620520-52ac-4156-bd8e-a83c58c37d11](https://github.com/Green-Software-Foundation/hack/assets/11027021/f1adcd5f-b4a2-40f2-a7dc-dd14e026ee6e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
