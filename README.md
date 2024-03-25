@@ -17,11 +17,9 @@ We’re challenging practitioners to come together in small virtual teams to sho
 
 🚀 Ready to start hacking? [Learn how to propose your hackathon project](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide#i-want-to-lead-a-hackathon-project)
 
-🧑‍💻 Want to hack with others? [Find a hackathon project to join](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide#i-want-to-join-a-hackathon-project)
-
 🚧 [View the projects already registered](https://github.com/Green-Software-Foundation/hack/issues)
 
-💡 Not sure what to build? [Get inspiration](https://github.com/Green-Software-Foundation/hack/discussions/categories/develop-an-idea)
+🏆 Have a finished solution? [Submit your project for judging](https://github.com/Green-Software-Foundation/hack/wiki/Submit-your-project-for-judging)
 
 📺 Questions on Impact Framework? [Join the next hackathon Q&A live stream](https://grnsft.org/hack/live/github)
 
