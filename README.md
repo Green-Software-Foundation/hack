@@ -36,6 +36,7 @@ Check out our latest video explaining the use and power of Impact Framework (IF)
 ![accenture](https://github.com/Green-Software-Foundation/hack/assets/11027021/6fd00c6a-e04b-4bba-abaf-23c61b1c33ab)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Amadeus](https://github.com/Green-Software-Foundation/hack/assets/11027021/f1adcd5f-b4a2-40f2-a7dc-dd14e026ee6e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Aveva](https://github.com/Green-Software-Foundation/hack/assets/11027021/0fe4278a-1404-4788-aa13-bb2bc80df122)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![317013143-3760be21-5205-405d-bc07-76883a62f7a1](https://github.com/Green-Software-Foundation/hack/assets/11027021/6bcb2157-9603-4bd3-a994-fdd76b4e2de7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![IMDA](https://github.com/Green-Software-Foundation/hack/assets/11027021/f7c7dae4-4c7b-4186-b7d9-ce572dd70539)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![nedbank](https://github.com/Green-Software-Foundation/hack/assets/11027021/00a04999-b2b5-47e1-8d92-ef88e070c3ea)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![NTT Data](https://github.com/Green-Software-Foundation/hack/assets/11027021/efd28da8-a0cc-4181-8582-9a252957df9a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
