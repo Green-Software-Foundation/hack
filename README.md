@@ -13,17 +13,17 @@ This year, we're pushing boundaries by going beyond carbon—exploring the full 
 
 We’re challenging practitioners to come together in small virtual teams to showcase IF's prowess in reducing software's ecological footprint—carbon emissions, water usage, land impact, and more. This is your chance to make a real impact.
 
-## Get Involved
+## Closing & Awards Ceremony
 
-🚀 Ready to start hacking? [Learn how to propose your hackathon project](https://github.com/Green-Software-Foundation/hack/wiki/Participant-Guide#i-want-to-lead-a-hackathon-project)
+**ATTEND THE CLOSING & AWARD CEREMONY LIVE STREAM ON APRIL 18TH! 🏆**
 
-🚧 [View the projects already registered](https://github.com/Green-Software-Foundation/hack/issues)
+For three weeks, software practitioners globally have been at work to redefine environmental impact measurement using Impact Framework, an innovative opensource measurement tool thats breaking convention to make software measurement transparent, auditable, and verifiable for everyone.
 
-🏆 Have a finished solution? [Submit your project for judging](https://github.com/Green-Software-Foundation/hack/wiki/Submit-your-project-for-judging)
+Witness the culmination of this global hackathon that's invited over 500 software hacktivists and started 50+ new solutions.
 
-📺 Questions on Impact Framework? [Join the next hackathon Q&A live stream](https://grnsft.org/hack/live/github)
+Attend the Closing & Award Ceremony Livestream on April 18th!
 
-❓ More questions? [Check the Wiki](https://github.com/Green-Software-Foundation/hack/wiki) or [Ask Anything](https://github.com/Green-Software-Foundation/hack/discussions/categories/ask-anything)
+Join us https://hack.greensoftware.foundation/awards/
 
 ## Impact Framework
 
